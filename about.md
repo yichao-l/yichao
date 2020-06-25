@@ -4,23 +4,23 @@ title: About Me
 permalink: /about/
 ---
 
-DPhil Student in Biomedical Engineering at Hertford College, Oxford
-\
+DPhil Student in Biomedical Engineering at Hertford College, Oxford---
+
 
 ### Education
 
 2019 - present   **University of Oxford**, Engineering Science (DPhil)
 
-Project Title: Multi-scale modelling of cerebral metabolism
-\
+Project Title: Multi-scale modelling of cerebral metabolism---
+
 
 2017 - 2019   **The University of Edinburgh**, Mechanical Engineering (BEng 1st Class Honours)
 
-Dissertation: Computational simulation and validation of flows in branching blood vessels
-\
+Dissertation: Computational simulation and validation of flows in branching blood vessels---
 
-2015 - 2017   **Xiamen University**, Aircraft Propulsion Engineering
-\
+
+2015 - 2017   **Xiamen University**, Aircraft Propulsion Engineering---
+
 
 ### Research Experience
 
