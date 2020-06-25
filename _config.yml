@@ -9,7 +9,7 @@ name: Yidan Xue
 description: DPhil Student in Biomedical Engineering at Oxford
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/yidanxue/yidanxue.github.io/tree/master/images/YX.jpg
+avatar: /images/YX.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: YidanXue
   instagram:
-  linkedin: Yidan Xue
+  linkedin: Yidan-Xue
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: YidanXue
