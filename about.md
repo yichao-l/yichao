@@ -24,12 +24,12 @@ Dissertation: Computational simulation and validation of flows in branching bloo
 
 ### Research Experience
 
-2018.7 - 2018.9   State Key Laboratory of High Temperature Gas Dynamics, Chinese Academy of Sciences
+2018.7 - 2018.9   State Key Laboratory of High Temperature Gas Dynamics, **Chinese Academy of Sciences**
 
 LES simulation of H2-O2 gaseous supercritical combustion
 
 
-2018.5 - 2018.7   School of Engineering, The University of Edinburgh
+2018.5 - 2018.7   School of Engineering, **The University of Edinburgh**
 
 RANS simulation of split fuel injection inside internal combustion engines
 
