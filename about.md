@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-DPhil Student in Biomedical Engineering at Hertford College, Oxford---
-
+DPhil Student in Biomedical Engineering at Hertford College, Oxford
+- - -
 
 ### Education
 
