@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm interested in pursuing the complementary goals of engineering more human-like machine intelligence systems and understanding human learning in computational terms by exercising a variety of tools -- primarily, Neural Networks, Probabilistic Modelling, Formal Languages -- rooted in areas in mathematics --  Calculus, Probability, Algebra and Logic -- and guided by ideas from different communities -- Artificial Intelligence, Cognitive Science, and Neuroscience -- and more broadly methodologies from empirical, theoretical, computational and data-driven science.
+I'm interested in pursuing the complementary goals of engineering more human-like machine intelligence systems and understanding human learning in computational terms, with the ultimate goal of reaching Artificial General Intelligence (AGI), by exercising a variety of tools -- primarily, Neural Networks, Probabilistic Modelling, Formal Languages -- rooted in areas in mathematics --  Calculus, Probability, Algebra and Logic -- and guided by ideas from different communities -- Computer Science, Cognitive Science, and Neuroscience -- and more broadly methodologies from empirical, theoretical, computational and data-driven science.
 
 ### Contact me
 
