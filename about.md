@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm interested in pursuing the complementary goals of engineering more human-like machine intelligence systems and understanding human learning in computational terms by exercising a variety of tools -- primarily, Neural Networks, Bayesian Inference, Symbolic Manipulations, Probabilistic Programming -- rooted in areas in maths --  Calculus, Probability, Algebra and Logic -- and guided by ideas from different communities -- Artificial Intelligence, Cognitive Science, and Neuroscience -- and more broadly methodologies from empirical, theoretical, computational and data-driven science.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email: [ycliang02@gmail.com](mailto:ycliang02@gmail.com)
+
+
+Twitter: [@yichao_liang](https://twitter.com/yichao_liang)
